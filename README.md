@@ -1,2 +1,2 @@
 # local-env-settings
-Local environment for various applications
+Local environment settings for various applications
